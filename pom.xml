@@ -100,6 +100,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>Authorization-service</finalName>
 	</build>
 	<repositories>
 		<repository>
@@ -137,5 +138,6 @@
 			</releases>
 		</pluginRepository>
 	</pluginRepositories>
+	
 
 </project>
