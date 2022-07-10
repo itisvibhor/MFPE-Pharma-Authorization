@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-   - target/UserFinalBC.jar
+   - target/AUTHORIZATION-SERVICE.jar
   discard-paths: yes
